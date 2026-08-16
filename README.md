@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @bribera
-- 👀 I’m interested in front-end development
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on Font-end development projet first
+- 👀 I’m a web developer specialize en Front-end development
 - 📫 How to reach me agossoubenie@gmail.com
 
 <!---
